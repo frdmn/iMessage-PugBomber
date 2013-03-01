@@ -1,7 +1,7 @@
 iMessage-PugBomber
 ==================
 
-Simple AppleScript that will send a lot of pug pictures, parsed by pugme.herokuapp.com via JSON Helper.
+Simple AppleScript that will send a lot of pug pictures, parsed by [pugme.herokuapp.com](http://pugme.herokuapp.com) via JSON Helper.
 
 Requirements
 -----
