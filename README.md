@@ -13,3 +13,4 @@ Usage
 1. Edit the `pugbomber.applescript` and insert your iMessage account and the one of your target.
 2. Make sure you've installed [JSON Helper](https://itunes.apple.com/de/app/json-helper-for-applescript/id453114608?mt=12).
 3. Start the AppleScipt using the AppleScript Editor.
+4. Profit
