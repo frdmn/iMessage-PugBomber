@@ -14,7 +14,7 @@ to getPug()
 	end tell
 end getPug
 
-# Fix something to make this work !!! DON'T CHANGE THIS !!!
+## Fix something to make this work !!! DON'T CHANGE THIS !!!
 set yourAddress to "E:" & yourAddress
 
 ## loop
